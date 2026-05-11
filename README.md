@@ -100,3 +100,4 @@ Warm      #1A1614   ← Footer
 ---
 
 *© 2025 AYDE Tekstil – Tüm hakları saklıdır.*
+https://efedemirtas48.github.io/ayde/
